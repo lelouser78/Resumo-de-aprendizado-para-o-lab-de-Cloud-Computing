@@ -1,2 +1,8 @@
 # Resumo-de-aprendizado-para-o-lab-de-Cloud-Computing
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Durante meus estudos tive a oportunidade de conhecer os principais conceitos de Computação em nuvem utilizando a plataforma Microsoft Azure. Iniciei aprendendo sobre os modelos de serviço em nuvem (IaaS, PaaS e SaaS), suas aplicações e os benefícios que a nuvem oferece em termos de escalabilidade, disponibilidade e redução de custos.
+Na prática, realizei o processo de criação e configuração de uma conta Azure, explorando o portal e identificando os principais recursos e categorias de serviços disponíveis. Também aprendi sobre regiões, grupos de recursos e boas práticas para organização dos ambientes em nuvem.
+Ao longo das atividades, criei e gerenciei máquinas virtuais, compreendendo os requisitos necessários para implantação, monitoramento e administração desses recursos. Além disso, conheci os serviços de armazenamento e banco de dados do Azure, entendendo como eles podem ser utilizados para suportar aplicações corporativas.
+O laboratório também abordou conceitos relacionados à segurança, disponibilidade, escalabilidade e gerenciamento de custos, fundamentais para a implementação de soluções eficientes na nuvem. Por fim, tive contato com serviços modernos do Azure voltados para inovação e inteligência artificial, ampliando minha visão sobre as possibilidades oferecidas pela plataforma.
+Ao concluir o bootcamp, desenvolvi uma compreensão sólida dos fundamentos do Microsoft Azure. Adquirindo conhecimentos práticos para criar, configurar e administrar recursos em nuvem, além de estar mais preparado para aprofundar meus estudos e atuar em ambientes baseados em Cloud Computing.
+
